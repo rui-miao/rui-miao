@@ -4,7 +4,7 @@
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rui-miao&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/rui-miao">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rui-miao&layout=compact&hide=jupyternotebook" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rui-miao&layout=compact&hide=Jupyter Notebook" />
 </a>
 
 <p></p>
