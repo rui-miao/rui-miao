@@ -9,8 +9,7 @@
 
 <p></p>
 
-- I am a PhD candidate of Statistics. My research interests include causal inference, reinforcement learning and functional/longitudinal data analysis...
-- Currently I am working on proximal causal learning method. 
+- I am a Postdoc of Statistics. My research interests include causal inference, reinforcement learning and functional/longitudinal data analysis...
 
 <!--
 
