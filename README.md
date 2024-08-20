@@ -6,7 +6,7 @@
 
 <p></p>
 
-- I am a Postdoc of Statistics. My research interests include causal inference, reinforcement learning and functional/longitudinal data analysis...
+- I am a statistician. My research interests include causal inference, reinforcement learning and functional/longitudinal data analysis...
 
 <!--
 
